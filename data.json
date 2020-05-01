@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "Project 1",
+            "description": "Project 1 - Random quotes generated automatically, with random background color and font color. Also randomly generated on click of the button",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project01_randomQuoteGenerator/index.html",
             "github_link": "https://github.com/winnieKelley642/random_quote_generator",
@@ -13,7 +13,7 @@
         {
             "id": 1,
             "project_name": "List Pagination",
-            "description": "Project 2",
+            "description": "Project 2 - List of 10 students are pulled from a list and displayed with search functionality",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project02_listPagination/index.html",
             "github_link": "https://github.com/winnieKelley642/list_pagination_and_filtering-v1",
@@ -24,7 +24,7 @@
         {
             "id": 2,
             "project_name": "Form Validation",
-            "description": "Project 3",
+            "description": "Project 3 - a form with real time validation",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project03_formValidation/index.html",
             "github_link": "https://github.com/winnieKelley642/interactive-form-selects-and-options",
@@ -34,7 +34,7 @@
         {
             "id": 3,
             "project_name": "OOP Game",
-            "description": "Project 4",
+            "description": "Project 4 - Game called Phrase Hunter (Hangman)",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project04_oopGame/index.html",
             "github_link": "https://github.com/winnieKelley642/oop_game-v2",
@@ -45,7 +45,7 @@
         {
             "id": 4,
             "project_name": "API",
-            "description": "Project 5",
+            "description": "Project 5 - Pulls 12 random 'users' and displays their information, when clicked on more information will be displayed.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project05_api/index.html",
             "github_link": "https://github.com/winnieKelley642/public_api_request-v1",
