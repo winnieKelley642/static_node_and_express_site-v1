@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,p{
   }
 
 .round{
-  border-radius: 5px;
+  border-radius: 45px;
 }
 
 .text-light{
@@ -35,7 +35,9 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button:hover{
-  background-color: #111;
+  background: -webkit-linear-gradient(rgb(0, 0, 255), rgb(217, 241, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 a{
@@ -43,7 +45,9 @@ a{
 }
 
 a:hover{
-  color: #111;
+  background: -webkit-linear-gradient(rgb(0, 0, 255), rgb(217, 241, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .image{
@@ -147,4 +151,22 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+/* adding css*/
+body{
+  background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, ul, li, p{
+  /*font color*/
+  background: -webkit-linear-gradient(rgb(21, 139, 236), rgb(217, 241, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.thumbnail{
+  border-color: blue;
+  box-shadow: 5px 5px rgb(55, 165, 255);
+  border-radius: 75%;
 }
