@@ -1,16 +1,18 @@
 {
   "name": "static_node_and_express_site-v1",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/winnieKelley642/static_node_and_express_site-v1.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Winnie Kelley",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/winnieKelley642/static_node_and_express_site-v1/issues"
