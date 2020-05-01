@@ -7,8 +7,8 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project01_randomQuoteGenerator/index.html",
             "github_link": "https://github.com/winnieKelley642/random_quote_generator",
-            "image_urls": ["/images/screenshots/project01RandomQuoteGenerator/project01RandomQuoteGenerator_01.png",
-                            "/images/screenshots/project01RandomQuoteGenerator/project01RandomQuoteGenerator_02.png"] 
+            "image_urls": ["/static/images/screenshots/project01RandomQuoteGenerator/project01RandomQuoteGenerator_01.png",
+                            "/static/images/screenshots/project01RandomQuoteGenerator/project01RandomQuoteGenerator_02.png"] 
         },
         {
             "id": 1,
@@ -17,9 +17,9 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project02_listPagination/index.html",
             "github_link": "https://github.com/winnieKelley642/list_pagination_and_filtering-v1",
-            "image_urls": ["/images/screenshots/project02ListPagination/project02ListPagination_01.png",
-                            "/public/images/screenshots/project02ListPagination/project02ListPagination_02.png",
-                            "/images/screenshots/project02ListPagination/project02ListPagination_03.png"]
+            "image_urls": ["/static/images/screenshots/project02ListPagination/project02ListPagination_01.png",
+                            "/static/images/screenshots/project02ListPagination/project02ListPagination_02.png",
+                            "/static/images/screenshots/project02ListPagination/project02ListPagination_03.png"]
         },
         {
             "id": 2,
@@ -28,8 +28,8 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project03_formValidation/index.html",
             "github_link": "https://github.com/winnieKelley642/interactive-form-selects-and-options",
-            "image_urls": ["/images/screenshots/project03FormValidation/project03FormValidation_01.png",
-                            "/images/screenshots/project03FormValidation/project03FormValidation_02.png"]
+            "image_urls": ["/static/images/screenshots/project03FormValidation/project03FormValidation_01.png",
+                            "/static/images/screenshots/project03FormValidation/project03FormValidation_02.png"]
         },
         {
             "id": 3,
@@ -38,20 +38,20 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project04_oopGame/index.html",
             "github_link": "https://github.com/winnieKelley642/oop_game-v2",
-            "image_urls": ["/images/screenshots/project04OOPGame/project04OOPGame_01.png",
-                            "images/screenshots/project04OOPGame/project04OOPGame_02.png",
-                            "/images/screenshots/project04OOPGame/project04OOPGame_03.png"]
+            "image_urls": ["/static/images/screenshots/project04OOPGame/project04OOPGame_01.png",
+                            "/static/images/screenshots/project04OOPGame/project04OOPGame_02.png",
+                            "/static/images/screenshots/project04OOPGame/project04OOPGame_03.png"]
         },
         {
             "id": 4,
-            "project_name": "List Pagination",
+            "project_name": "API",
             "description": "Project 5",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://winniekelley642.github.io/treehouse/fsjs/project05_api/index.html",
             "github_link": "https://github.com/winnieKelley642/public_api_request-v1",
-            "image_urls": ["/images/screenshots/project05API/project05API_01.png",
-                            "/images/screenshots/project05API/project05API_02.png",
-                            "/images/screenshots/project05API/project05API_03.png"]
+            "image_urls": ["/static/images/screenshots/project05API/project05API_01.png",
+                            "/static/images/screenshots/project05API/project05API_02.png",
+                            "/static/images/screenshots/project05API/project05API_03.png"]
         }
     ]
 }
