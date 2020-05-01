@@ -27,6 +27,23 @@ app.get('/project/:id', (req, res) =>{
         project: projects[req.params.id]
     })    
 })
+
+//error handling
+//404 error
+app.use((req, res, next) =>{
+    const error = new Error(`Dun Dun Dun, that page is not available`);
+    error.status = 404;
+    //log out error in console as project requires
+    console.log(`Ooops! Something went wrong: ${error}`);
+    next(error);
+});
+//error message
+app.use((error, requ, res, next) => {
+    res.locals.error = error;
+    res.status(error.status);
+    res.render(`error`);
+});
+
 app.get('/', (request, respond) =>{
     respond.send('connected properly to localhost:3000');
 });
