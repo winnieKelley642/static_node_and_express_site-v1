@@ -20,7 +20,7 @@
   "homepage": "https://github.com/winnieKelley642/static_node_and_express_site-v1#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "pug": "^2.0.4"
